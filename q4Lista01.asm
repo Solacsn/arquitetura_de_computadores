@@ -19,7 +19,7 @@ main: addi $2, $0, 5 #recebe o primeiro valor
       add $11, $4, $5 #soma os dois pesos
       div $7, $11 #divide os dois
      
-      mflo $12 #armazena o resultado
-      add $13, $0, $12
-      addi $2, $0, 1 #chama a função de imprimir
+      mflo $4 #armazena o resultado
+      add $12, $0, $4 
+      addi $2, $0, 1 #chama a funÃ§Ã£o de imprimir
       syscall
