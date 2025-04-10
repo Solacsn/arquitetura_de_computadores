@@ -1,0 +1,7 @@
+Aula 02 - Arquitetura de computadores
+
+Anotações:
+- Cada caractere tem um número correspondente em código ASCII (Ex.: 97 = a)
+- Deslocamento p/ esquerda realiza uma multiplicação (1 casa = 2x, 2 casas = 4x,3 3 casas = 8x, etc) -> SLL
+
+
