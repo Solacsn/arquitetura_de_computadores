@@ -20,6 +20,6 @@ main: addi $2, $0, 5 #recebe o primeiro valor
       div $7, $11 #divide os dois
      
       mflo $4 #armazena o resultado
-      add $12, $0, $4 
-      addi $2, $0, 1 #chama a funÃ§Ã£o de imprimir
+      add $12, $0, $4
+      addi $2, $0, 1 #chama a função de imprimir
       syscall
